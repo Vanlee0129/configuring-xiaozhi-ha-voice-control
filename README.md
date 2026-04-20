@@ -1,3 +1,4 @@
+[中文]https://github.com/Vanlee0129/configuring-xiaozhi-ha-voice-control/blob/main/README_CN.md
 # Configuring Xiaozhi Voice Control via HA MCP Server
 
 A Claude Code skill for setting up [Xiaozhi ESP32](https://github.com/78/xiaozhi-esp32) voice control of smart home devices through Home Assistant's MCP Server.
