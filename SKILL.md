@@ -22,6 +22,9 @@ Enable voice control of smart home devices through the Xiaozhi ESP32 → Xiaozhi
 ```
 Xiaozhi ESP32 → Xiaozhi Cloud → xiaozhi_mcp plugin (WebSocket)
   → HA MCP Server (SSE) → AssistAPI
+```
+
+The `xiaozhi_mcp` plugin ([xiaozhi-mcp-ha](https://github.com/mac8005/xiaozhi-mcp-ha)) bridges Xiaozhi Cloud and HA's MCP Server.
   → IntentTool (HassTurnOn/Off, HassClimateSetTemperature, HassVacuumStart...)
   → ScriptTool (any script exposed to conversation)
 ```

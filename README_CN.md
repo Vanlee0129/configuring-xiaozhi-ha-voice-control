@@ -38,7 +38,7 @@ git clone https://github.com/Vanlee0129/configuring-xiaozhi-ha-voice-control.git
 ### 前置条件
 
 - Home Assistant 已安装 [MCP Server](https://www.home-assistant.io/integrations/mcp_server/) 集成
-- 已安装 [xiaozhi_mcp](https://github.com/pzq123456/xiaozhi-mcp-ha) 自定义组件
+- 已安装 [xiaozhi-mcp-ha](https://github.com/mac8005/xiaozhi-mcp-ha) 自定义组件（桥接小智云 ↔ HA MCP Server）
 - 小米智能家庭集成（含红外遥控器，用于空调控制）
 - 小智 ESP32 设备已连接小智云
 

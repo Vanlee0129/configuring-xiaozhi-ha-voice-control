@@ -38,7 +38,7 @@ Then in Claude Code, the skill will automatically activate when you ask about Xi
 ### Prerequisites
 
 - Home Assistant with [MCP Server](https://www.home-assistant.io/integrations/mcp_server/) integration
-- [xiaozhi_mcp](https://github.com/pzq123456/xiaozhi-mcp-ha) custom component installed
+- [xiaozhi-mcp-ha](https://github.com/mac8005/xiaozhi-mcp-ha) custom component installed (bridges Xiaozhi Cloud ↔ HA MCP Server)
 - Xiaomi Home integration with IR remotes (for AC control)
 - Xiaozhi ESP32 device connected to Xiaozhi Cloud
 
